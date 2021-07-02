@@ -1,0 +1,5 @@
+all:
+	pcb2cnc --isolation=3 \
+		--thickness=1.4 \
+		--cutw=0.8 --cutw=0.5 --cutw=0.2 --machine=bungard \
+		--extradrill=0.9mm
