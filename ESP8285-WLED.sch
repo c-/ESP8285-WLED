@@ -1597,4 +1597,6 @@ F 3 "~" H 4650 3750 50  0001 C CNN
 	1    4650 3750
 	0    1    -1   0   
 $EndComp
+Text Notes 4550 2500 0    50   ~ 0
+Note: bulk capacitance is\ntechnically too much for USB.
 $EndSCHEMATC
