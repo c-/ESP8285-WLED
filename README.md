@@ -1,7 +1,7 @@
 This is a WLED board built around an ESP-8285, designed to be milled on
 a CNC.
 
-[[PCB-Collage.jpg]]
+![PCB Collage](PCB-Collage.jpg)
 
 Parts include the ESP8285, a PCB trace antenna, an optional external
 antenna connector, CH340K USB controller (with support for ESP
