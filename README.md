@@ -9,3 +9,6 @@ auto-programming), TXS0101 level shifter, an ME3115
 buck converter (for WS2811 projects), and a ME6211 3.3V LDO. This stuff
 is, for the most part, straight out of the data sheets so there shouldn't
 be anything too exciting.
+
+There's no real attempt to do any antenna tuning, impedance matching, etc.
+I used the D1 mini pro as a guideline and basically cross my fingers.
